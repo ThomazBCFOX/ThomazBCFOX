@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomazBCFOX
-- 👀 I’m interested in programming
+- 👀 I’m interested in make a living out of programming
 - 🌱 I’m currently learning Python focused in RPA
 - 📫 How to reach me: If you don't know me, dont reach me at all, thanks.
 - 😄 Pronouns: He/Him
